@@ -1,5 +1,17 @@
-div {
-    background-color: #1C658C; 
+.top-container {
+    background-color: #1C658C;
+}
+
+.middle-container {
+    background-color: #398AB9;
+    width: 200px;
+    height: 200px;
+}
+
+.bottom-container {
+    background-color: #1C658C;
+    width: 200px;
+    height: 200px;
 }
 
 body {
@@ -17,3 +29,5 @@ h1 {
     color: #D8D2CB;
     margin: 0;
 }
+
+
