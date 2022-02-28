@@ -1,5 +1,11 @@
+div {
+    background-color: #398AB9;
+    
+}
+
 body {
-    background-color: #1C658C;  
+    background-color: #1C658C;
+    margin: 0;
 }
 
 hr {
@@ -10,8 +16,5 @@ hr {
 
 h1 {
     color: #D8D2CB;
-}
-
-h3 {
-    color: #D8D2CB;
+    margin: 0;
 }
