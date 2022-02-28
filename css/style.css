@@ -16,16 +16,15 @@ h1 {
 
 .top-container {
     background-color: #1C658C;
+    margin: 0;
 }
 
 .middle-container {
     background-color: #398AB9;
-    width: 200px;
-    height: 200px;
+    margin: 0;
 }
 
 .bottom-container {
     background-color: #1C658C;
-    width: 200px;
-    height: 200px;
+    margin: 0;
 }
