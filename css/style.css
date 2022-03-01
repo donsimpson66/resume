@@ -52,5 +52,5 @@ h3 {
 .bottom-cloud {
     position: relative;
     right: 300px;
-    top: 50px;
+    bottom: 50px;
 }
