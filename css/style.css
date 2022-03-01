@@ -15,6 +15,15 @@ hr {
 h1 {
     color: #D8D2CB;
     margin: 0 auto;
+    font-family: 'Niconne', cursive;
+}
+
+h2 {
+    font-family: 'Ubuntu', sans-serif;
+}
+
+h3 {
+    font-family: 'Ubuntu', sans-serif;
 }
 
 .top-container {
