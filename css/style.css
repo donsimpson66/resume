@@ -1,6 +1,7 @@
 body {
     margin: 0;
     color: #EEEEEE;
+    text-align: center;
 }
 
 hr {
@@ -12,12 +13,12 @@ hr {
 
 h1 {
     color: #D8D2CB;
-    margin: 0;
+    margin: 0 auto;
 }
 
 .top-container {
     background-color: #1C658C;
-    margin: 0;
+    margin: 0; 
 }
 
 .middle-container {
@@ -28,4 +29,14 @@ h1 {
 .bottom-container {
     background-color: #1C658C;
     margin: 0;
+}
+
+.top-cloud {
+    position: relative;
+    left: 200px;
+}
+
+.bottom-cloud {
+    position: relative;
+    right: 200px;
 }
