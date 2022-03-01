@@ -44,13 +44,11 @@ h3 {
 }
 
 .top-cloud {
-    position: relative;
     right: 300px;
     top: 50px;
 }
 
 .bottom-cloud {
-    position: relative;
     left: 300px;
     top: 50px;
 }
