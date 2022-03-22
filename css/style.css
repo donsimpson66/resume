@@ -58,12 +58,14 @@ h3 {
 }
 
 .top-cloud {
+    size: 15%;
     position: relative;
     left: 300px;
     top: 50px;
 }
 
 .bottom-cloud {
+    size: 20%;
     position: relative;
     right: 300px;
     bottom: 0px;
