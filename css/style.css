@@ -97,13 +97,13 @@ h3 {
     -webkit-border-radius: 8;
     -moz-border-radius: 8;
     border-radius: 8px;
-    font-family: Arial;
     color: #EEEEEE;
     font-size: 20px;
     background: #1C658C;
     padding: 10px 20px 10px 20px;
     border: solid #D8D2CB 1px;
     text-decoration: none;
+    margin: 100px 0 100px 0;
 }
   
 .btn:hover {
@@ -113,7 +113,7 @@ h3 {
 
 .footer-link {
       color: #1C658C;
-      margin: 50px auto;
+      padding: 50px;
 }
 
 .footer-link:hover {
