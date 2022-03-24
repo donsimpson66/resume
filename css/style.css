@@ -99,6 +99,11 @@ p {
     margin: auto;
 }
 
+.contact-me {
+    width: 80%;
+    margin: 100px auto;
+}
+
 .skill-row {
     width: 80%;
     margin: 100px auto;
