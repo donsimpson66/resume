@@ -32,11 +32,16 @@ h2 {
     font-family: 'Ubuntu', sans-serif;
     font-size: 2.5rem;
     font-weight: normal;
+    padding-bottom: 50px;
 }
 
 h3 {
     color: #398AB9;
     font-family: 'Ubuntu', sans-serif;
+}
+
+p {
+    line-height: 2;
 }
 
 .top-container {
@@ -49,12 +54,12 @@ h3 {
 
 .middle-container {
     background-color: #EEEEEE;
-    margin: 0 0 100px 0;
+    margin: 100px, 0;
 }
 
 .bottom-container {
     background-color: #D8D2CB;
-    margin: 100px 0 100px 0;
+    margin: 100px 0;
 }
 
 .top-cloud {
@@ -73,7 +78,7 @@ h3 {
     max-width: 300px; 
     max-height: 100px;
     position: relative;
-    right: 300px;
+    right: 250px;
     bottom: 0px;
 }
 
@@ -86,11 +91,15 @@ h3 {
     margin-right: 50px;
 }
 
+.profile {
+    width: 50%;
+    margin: auto;
+}
+
 .skill-row {
     width: 80%;
     margin: 100px auto;
     text-align: left;
-    line-height: 2;
 }
 
 .btn {
