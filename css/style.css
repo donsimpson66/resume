@@ -102,6 +102,7 @@ p {
 .contact-me {
     width: 80%;
     margin: 100px auto;
+    padding-top: 50px;
 }
 
 .skill-row {
