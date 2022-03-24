@@ -112,6 +112,7 @@ p {
     padding: 10px 20px 10px 20px;
     border: solid #D8D2CB 1px;
     text-decoration: none;
+    margin: 50px;
 }
   
 .btn:hover {
