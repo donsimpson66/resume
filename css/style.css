@@ -32,12 +32,13 @@ h2 {
     font-family: 'Ubuntu', sans-serif;
     font-size: 2.5rem;
     font-weight: normal;
-    padding-bottom: 50px;
+    padding-bottom: 20px;
 }
 
 h3 {
     color: #398AB9;
     font-family: 'Ubuntu', sans-serif;
+    padding-bottom: 10px;
 }
 
 p {
@@ -49,13 +50,13 @@ p {
     margin: 0;
     position: relative;
     padding-top: 100px;
-    padding-bottom: 50px;
+    padding-bottom: 100px;
 }
 
 .middle-container {
     background-color: #EEEEEE;
     margin: 0;
-    padding-top: 50px;
+    padding-top: 100px;
     padding-bottom: 100px
 }
 
@@ -112,7 +113,6 @@ p {
     padding: 10px 20px 10px 20px;
     border: solid #D8D2CB 1px;
     text-decoration: none;
-    margin: 50px;
 }
   
 .btn:hover {
