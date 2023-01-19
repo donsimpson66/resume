@@ -115,6 +115,7 @@ p {
 
 .skill-text {
     float:right;
+    width: 60%;
     margin: 50px 50px 50px 50px;
     text-align: left;
 }
