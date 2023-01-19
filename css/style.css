@@ -86,12 +86,14 @@ p {
 }
 
 .skill-image {
-    float: left;
-    height: 300px; 
-    width: 300px; 
+    /*float: left;*/
+    height: 250px; 
+    width: 250px;
+    text-align: left; 
     /*max-width: 300px; 
-    max-height: 300px;*/
-    margin-right: 50px;
+    max-height: 300px;
+    margin-right: 50px;*/
+    margin-top: 50px;
 }
 
 .profile {
@@ -112,6 +114,7 @@ p {
 }
 
 .skill-text {
+    float:right;
     margin: 50px 50px 50px 50px;
     text-align: left;
 }
