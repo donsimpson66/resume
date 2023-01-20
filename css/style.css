@@ -89,7 +89,8 @@ p {
     /*float: left;*/
     height: 250px; 
     width: 250px;
-    text-align: left; 
+    text-align: left;
+    vertical-align: top; 
     /*max-width: 300px; 
     max-height: 300px;
     margin-right: 50px;*/
@@ -114,7 +115,7 @@ p {
 }
 
 .skill-text {
-    float:right;
+    display: inline-block;
     width: 60%;
     margin: 50px 50px 50px 50px;
     text-align: left;
