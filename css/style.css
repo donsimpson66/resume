@@ -85,18 +85,6 @@ p {
     bottom: 0px;
 }
 
-.skill-image {
-    /*float: left;*/
-    height: 250px; 
-    width: 250px;
-    text-align: left;
-    vertical-align: top; 
-    /*max-width: 300px; 
-    max-height: 300px;
-    margin-right: 50px;*/
-    margin-top: 50px;
-}
-
 .profile {
     width: 50%;
     margin: auto;
@@ -107,23 +95,35 @@ p {
     height: 250px;
 }
 
-.contact-me {
-    width: 80%;
-    margin: 100px auto;
-    padding-top: 50px;
-}
-
 .skill-row {
     width: 80%;
     margin: 25px auto;
     /*text-align: left;*/
 }
 
+.skill-image {
+    /*float: left;*/
+    height: 250px; 
+    width: 250px;
+    text-align: left;
+    vertical-align: top; 
+    /*max-width: 300px; 
+    max-height: 300px;
+    margin-right: 50px;*/
+    margin-top: 25px;
+}
+
 .skill-text {
     display: inline-block;
     width: 60%;
-    margin: 50px 50px 50px 50px;
+    margin: 25px 50px 25px 50px;
     text-align: left;
+}
+
+.contact-me {
+    width: 80%;
+    margin: 100px auto;
+    padding-top: 50px;
 }
 
 .btn {
