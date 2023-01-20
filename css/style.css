@@ -102,6 +102,11 @@ p {
     margin: auto;
 }
 
+.profile-image {
+    width: 250px;
+    height: 250px;
+}
+
 .contact-me {
     width: 80%;
     margin: 100px auto;
